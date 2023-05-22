@@ -1,8 +1,11 @@
 import React from 'react'
+import MainNavigation from '../components/MainNavigation';
 
 const ProductsPage = () => {
   return (
-    <div>Products</div>
+    <>
+    <h1>Products</h1>
+    </>
   )
 }
 
